@@ -115,3 +115,6 @@ It is a Virtual Learning website which provides functionality of registering in 
 - [x] **[cors]()**
 - [x] **[jsonwebtoken]()**
 - [x] **[body-parser]()**
+
+## Author
+**LinkedIn** Click (www.linkedin.com/in/mohd-mansoor-shareef) **@MohammedMansoorShareef**
